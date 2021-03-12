@@ -1,0 +1,16 @@
+{D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TwoINand
+-- Compiling module TwoINand_TB
+
+Top level modules:
+	TwoINand_TB
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNand.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNand.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TwoINand
+
+Top level modules:
+	TwoINand
+
+} {} {}}

@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/intelFPGA/20.1
+vTowINand
+!s110 1615532580
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 [iZ>7L?zd?gGX:Dd<YC:j3
+I;4VeDj=[fK7GFP55V^;3V3
+Z1 dD:/Codes/Digital Systems Assignments/Semester 4/Assignment 1
+w1615531928
+Z2 8TwoInputNand.v
+Z3 FTwoInputNand.v
+!i122 2
+Z4 L0 4 7
+Z5 OV;L;2020.1;71
+31
+!s108 1615532580.000000
+!s107 TwoInputNand.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@tow@i@nand
+vTwoINand
+Z9 !s110 1615537180
+!i10b 1
+!s100 QZQBUbz=of`803;fioGM]2
+Z10 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2;fjd2el>?@QcPdB?m>YE0
+R0
+R1
+w1615535154
+R2
+R3
+!i122 8
+R4
+R5
+r1
+!s85 0
+31
+Z11 !s108 1615537180.000000
+Z12 !s107 TwoInputNand.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v|
+R6
+!i113 1
+R7
+R8
+n@two@i@nand
+vTwoINand_TB
+R9
+!i10b 1
+!s100 bdMJ@S?OVe]JbZUU=SYh_1
+R10
+IPE8<Ib2JjDDDfMAJJ=65N2
+R0
+R1
+w1615536561
+8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v
+FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v
+!i122 8
+L0 6 13
+R5
+r1
+!s85 0
+31
+R11
+R12
+R6
+!i113 1
+R7
+R8
+n@two@i@nand_@t@b

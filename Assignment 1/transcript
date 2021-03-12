@@ -1,0 +1,100 @@
+# Error opening D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/Sol1.v
+# Path name 'D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/Sol1.v' doesn't exist.
+# Error opening D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/Sol1.v
+# Path name 'D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/Sol1.v' doesn't exist.
+# Compile of TwoInputNand.v was successful.
+# Compile of TwoInputNandTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vlog -work work -refresh -force_refresh
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:10:48 on Mar 12,2021
+# vlog -reportprogress 300 -work work -refresh -force_refresh 
+# -- Refreshing module TowINand
+# -- Refreshing module TwoINand_TB
+# End time: 11:10:50 on Mar 12,2021, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+vcom -work work -refresh -force_refresh
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:10:50 on Mar 12,2021
+# vcom -reportprogress 300 -work work -refresh -force_refresh 
+# -- Skipping module TowINand
+# -- Skipping module TwoINand_TB
+# End time: 11:10:50 on Mar 12,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# can't read "Startup(-L)": no such element in array
+# Load canceled
+vsim work.TwoINand_TB
+# vsim work.TwoINand_TB 
+# Start time: 11:13:47 on Mar 12,2021
+# Loading work.TwoINand_TB
+# ** Error: (vsim-3033) Instantiation of 'TwoINand' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TwoINand_TB File: D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v Line: 9
+#         Searched libraries:
+#             D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/work
+# Error loading design
+# End time: 11:13:48 on Mar 12,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 15
+vsim work.TowINand
+# vsim work.TowINand 
+# Start time: 11:14:00 on Mar 12,2021
+# Loading work.TowINand
+add wave -position insertpoint  \
+sim:/TowINand/a \
+sim:/TowINand/b \
+sim:/TowINand/w \
+sim:/TowINand/Vdd \
+sim:/TowINand/Gnd \
+sim:/TowINand/y1
+run -all
+vsim work.TwoINand_TB
+# End time: 11:15:25 on Mar 12,2021, Elapsed time: 0:01:25
+# Errors: 0, Warnings: 1
+# vsim work.TwoINand_TB 
+# Start time: 11:15:25 on Mar 12,2021
+# Loading work.TwoINand_TB
+# ** Error: (vsim-3033) Instantiation of 'TwoINand' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TwoINand_TB File: D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v Line: 9
+#         Searched libraries:
+#             D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/work
+# Error loading design
+# End time: 11:15:26 on Mar 12,2021, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1
+# Compile of TwoInputNand.v was successful.
+# Compile of TwoInputNandTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.TwoINand_TB
+# vsim work.TwoINand_TB 
+# Start time: 11:16:06 on Mar 12,2021
+# Loading work.TwoINand_TB
+# Loading work.TwoINand
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint  \
+sim:/TwoINand_TB/aa \
+sim:/TwoINand_TB/bb \
+sim:/TwoINand_TB/ww
+run -continue
+run -all
+# Compile of TwoInputNand.v was successful.
+# Compile of TwoInputNandTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.TwoINand_TB
+# End time: 11:33:49 on Mar 12,2021, Elapsed time: 0:17:43
+# Errors: 0, Warnings: 3
+# vsim work.TwoINand_TB 
+# Start time: 11:33:49 on Mar 12,2021
+# Loading work.TwoINand_TB
+# Loading work.TwoINand
+add wave -position insertpoint  \
+sim:/TwoINand_TB/aa \
+sim:/TwoINand_TB/bb \
+sim:/TwoINand_TB/ww
+run -all
+# ** Note: $stop    : D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v(16)
+#    Time: 180 ns  Iteration: 0  Instance: /TwoINand_TB
+# Break in Module TwoINand_TB at D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v line 16
+# Break key hit
+# Compile of TwoInputNand.v was successful.
+# Compile of TwoInputNandTB.v was successful.
+# 2 compiles, 0 failed with no errors.
+# End time: 11:51:05 on Mar 12,2021, Elapsed time: 0:17:16
+# Errors: 0, Warnings: 2
