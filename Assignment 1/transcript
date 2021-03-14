@@ -1,93 +1,28 @@
-# Error opening D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/Sol1.v
-# Path name 'D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/Sol1.v' doesn't exist.
-# Error opening D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/Sol1.v
-# Path name 'D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/Sol1.v' doesn't exist.
 # Compile of TwoInputNand.v was successful.
 # Compile of TwoInputNandTB.v was successful.
-# 2 compiles, 0 failed with no errors.
-vlog -work work -refresh -force_refresh
-# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 11:10:48 on Mar 12,2021
-# vlog -reportprogress 300 -work work -refresh -force_refresh 
-# -- Refreshing module TowINand
-# -- Refreshing module TwoINand_TB
-# End time: 11:10:50 on Mar 12,2021, Elapsed time: 0:00:02
-# Errors: 0, Warnings: 0
-vcom -work work -refresh -force_refresh
-# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 11:10:50 on Mar 12,2021
-# vcom -reportprogress 300 -work work -refresh -force_refresh 
-# -- Skipping module TowINand
-# -- Skipping module TwoINand_TB
-# End time: 11:10:50 on Mar 12,2021, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# can't read "Startup(-L)": no such element in array
-# Load canceled
+# Compile of TriStateBuffer.v was successful.
+# Compile of TriStateBufferTB.v was successful.
+# Compile of 4To1MUX.v was successful.
+# Compile of ThreeInputNand.v was successful.
+# Compile of FourInputNand.v was successful.
+# Compile of 4To1MUXTB.v was successful.
+# Compile of TriState4To1MUX.v was successful.
+# Compile of TriState4To1MUXTB.v was successful.
+# 10 compiles, 0 failed with no errors.
 vsim work.TwoINand_TB
 # vsim work.TwoINand_TB 
-# Start time: 11:13:47 on Mar 12,2021
-# Loading work.TwoINand_TB
-# ** Error: (vsim-3033) Instantiation of 'TwoINand' failed. The design unit was not found.
-#    Time: 0 ps  Iteration: 0  Instance: /TwoINand_TB File: D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v Line: 9
-#         Searched libraries:
-#             D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/work
-# Error loading design
-# End time: 11:13:48 on Mar 12,2021, Elapsed time: 0:00:01
-# Errors: 1, Warnings: 15
-vsim work.TowINand
-# vsim work.TowINand 
-# Start time: 11:14:00 on Mar 12,2021
-# Loading work.TowINand
-add wave -position insertpoint  \
-sim:/TowINand/a \
-sim:/TowINand/b \
-sim:/TowINand/w \
-sim:/TowINand/Vdd \
-sim:/TowINand/Gnd \
-sim:/TowINand/y1
-run -all
-vsim work.TwoINand_TB
-# End time: 11:15:25 on Mar 12,2021, Elapsed time: 0:01:25
-# Errors: 0, Warnings: 1
-# vsim work.TwoINand_TB 
-# Start time: 11:15:25 on Mar 12,2021
-# Loading work.TwoINand_TB
-# ** Error: (vsim-3033) Instantiation of 'TwoINand' failed. The design unit was not found.
-#    Time: 0 ps  Iteration: 0  Instance: /TwoINand_TB File: D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v Line: 9
-#         Searched libraries:
-#             D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/work
-# Error loading design
-# End time: 11:15:26 on Mar 12,2021, Elapsed time: 0:00:01
-# Errors: 1, Warnings: 1
-# Compile of TwoInputNand.v was successful.
-# Compile of TwoInputNandTB.v was successful.
-# 2 compiles, 0 failed with no errors.
-vsim work.TwoINand_TB
-# vsim work.TwoINand_TB 
-# Start time: 11:16:06 on Mar 12,2021
-# Loading work.TwoINand_TB
-# Loading work.TwoINand
-# WARNING: No extended dataflow license exists
-add wave -position insertpoint  \
-sim:/TwoINand_TB/aa \
-sim:/TwoINand_TB/bb \
-sim:/TwoINand_TB/ww
-run -continue
-run -all
-# Compile of TwoInputNand.v was successful.
-# Compile of TwoInputNandTB.v was successful.
-# 2 compiles, 0 failed with no errors.
-vsim work.TwoINand_TB
-# End time: 11:33:49 on Mar 12,2021, Elapsed time: 0:17:43
-# Errors: 0, Warnings: 3
-# vsim work.TwoINand_TB 
-# Start time: 11:33:49 on Mar 12,2021
+# Start time: 23:19:01 on Mar 14,2021
 # Loading work.TwoINand_TB
 # Loading work.TwoINand
 add wave -position insertpoint  \
 sim:/TwoINand_TB/aa \
 sim:/TwoINand_TB/bb \
 sim:/TwoINand_TB/ww
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: mahdi  Hostname: MAHDIBOHLOUL  ProcessID: 4880
+#           Attempting to use alternate WLF file "./wlft3mirny".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft3mirny
 run -all
 # ** Note: $stop    : D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v(16)
 #    Time: 180 ns  Iteration: 0  Instance: /TwoINand_TB
@@ -95,6 +30,55 @@ run -all
 # Break key hit
 # Compile of TwoInputNand.v was successful.
 # Compile of TwoInputNandTB.v was successful.
-# 2 compiles, 0 failed with no errors.
-# End time: 11:51:05 on Mar 12,2021, Elapsed time: 0:17:16
-# Errors: 0, Warnings: 2
+# Compile of TriStateBuffer.v was successful.
+# Compile of TriStateBufferTB.v was successful.
+# Compile of 4To1MUX.v was successful.
+# Compile of ThreeInputNand.v was successful.
+# Compile of FourInputNand.v was successful.
+# Compile of 4To1MUXTB.v was successful.
+# Compile of TriState4To1MUX.v was successful.
+# Compile of TriState4To1MUXTB.v was successful.
+# Compile of TriStateMUXCompareNandMUXTB.v failed with 1 errors.
+# 11 compiles, 1 failed with 1 error.
+# Compile of TwoInputNand.v was successful.
+# Compile of TwoInputNandTB.v was successful.
+# Compile of TriStateBuffer.v was successful.
+# Compile of TriStateBufferTB.v was successful.
+# Compile of 4To1MUX.v was successful.
+# Compile of ThreeInputNand.v was successful.
+# Compile of FourInputNand.v was successful.
+# Compile of 4To1MUXTB.v was successful.
+# Compile of TriState4To1MUX.v was successful.
+# Compile of TriState4To1MUXTB.v was successful.
+# Compile of TriStateMUXCompareNandMUXTB.v was successful.
+# 11 compiles, 0 failed with no errors.
+vsim work.TriStateMUXCompareNandMUXTB
+# End time: 23:56:41 on Mar 14,2021, Elapsed time: 0:37:40
+# Errors: 0, Warnings: 9
+# vsim work.TriStateMUXCompareNandMUXTB 
+# Start time: 23:56:41 on Mar 14,2021
+# Loading work.TriStateMUXCompareNandMUXTB
+# Loading work.NandMUX
+# Loading work.TwoINand
+# Loading work.ThreeInputNand
+# Loading work.FourInputNand
+# Loading work.TriStateMUX
+# Loading work.TriStateBuffer
+add wave -position insertpoint  \
+sim:/TriStateMUXCompareNandMUXTB/aa \
+sim:/TriStateMUXCompareNandMUXTB/bb \
+sim:/TriStateMUXCompareNandMUXTB/cc \
+sim:/TriStateMUXCompareNandMUXTB/dd \
+sim:/TriStateMUXCompareNandMUXTB/s0 \
+sim:/TriStateMUXCompareNandMUXTB/s1 \
+sim:/TriStateMUXCompareNandMUXTB/ww1 \
+sim:/TriStateMUXCompareNandMUXTB/ww2
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: mahdi  Hostname: MAHDIBOHLOUL  ProcessID: 4880
+#           Attempting to use alternate WLF file "./wlft4kj73v".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft4kj73v
+run -all
+# ** Note: $stop    : D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateMUXCompareNandMUXTB.v(19)
+#    Time: 450 ns  Iteration: 0  Instance: /TriStateMUXCompareNandMUXTB
+# Break in Module TriStateMUXCompareNandMUXTB at D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateMUXCompareNandMUXTB.v line 19

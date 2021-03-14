@@ -1,4 +1,18 @@
-{D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v}
+{D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/FourInputNand.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/FourInputNand.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FourInputNand
+
+Top level modules:
+	FourInputNand
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/ThreeInputNand.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/ThreeInputNand.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ThreeInputNand
+
+Top level modules:
+	ThreeInputNand
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module TwoINand
 -- Compiling module TwoINand_TB
@@ -6,11 +20,64 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	TwoINand_TB
 
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriState4To1MUX.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriState4To1MUX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TriStateBuffer
+-- Compiling module TriStateMUX
+
+Top level modules:
+	TriStateMUX
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/4To1MUX.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/4To1MUX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TwoINand
+-- Compiling module ThreeInputNand
+-- Compiling module FourInputNand
+-- Compiling module NandMUX
+
+Top level modules:
+	NandMUX
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateBuffer.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateBuffer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TriStateBuffer
+
+Top level modules:
+	TriStateBuffer
+
 } {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNand.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNand.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module TwoINand
 
 Top level modules:
 	TwoINand
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriState4To1MUXTB.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriState4To1MUXTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TriStateBuffer
+-- Compiling module TriStateMUX
+-- Compiling module TriStateMUXTB
+
+Top level modules:
+	TriStateMUXTB
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/4To1MUXTB.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/4To1MUXTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TwoINand
+-- Compiling module ThreeInputNand
+-- Compiling module FourInputNand
+-- Compiling module NandMUX
+-- Compiling module NandMUXTB
+
+Top level modules:
+	NandMUXTB
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateBufferTB.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateBufferTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TriStateBuffer
+-- Compiling module TriStateBufferTb
+
+Top level modules:
+	TriStateBufferTb
 
 } {} {}}

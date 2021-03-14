@@ -10,74 +10,290 @@ z2
 !i10f 100
 cModel Technology
 dD:/intelFPGA/20.1
-vTowINand
-!s110 1615532580
-Z0 VDg1SIo80bB@j0V0VzS_@n1
+vFourInputNand
+Z0 !s110 1615753594
+!i10b 1
+!s100 d;ZR:CR]AKY_BFQ2=940I0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ihj=Hg@=NkNP`lU8eDH4Q;2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Codes/Digital Systems Assignments/Semester 4/Assignment 1
+w1615663405
+8FourInputNand.v
+FFourInputNand.v
+!i122 130
+Z4 L0 3 8
+Z5 OV;L;2020.1;71
 r1
 !s85 0
-!i10b 1
-!s100 [iZ>7L?zd?gGX:Dd<YC:j3
-I;4VeDj=[fK7GFP55V^;3V3
-Z1 dD:/Codes/Digital Systems Assignments/Semester 4/Assignment 1
-w1615531928
-Z2 8TwoInputNand.v
-Z3 FTwoInputNand.v
-!i122 2
-Z4 L0 4 7
-Z5 OV;L;2020.1;71
 31
-!s108 1615532580.000000
-!s107 TwoInputNand.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v|
-Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v|
+Z6 !s108 1615753593.000000
+!s107 FourInputNand.v|ThreeInputNand.v|TwoInputNand.v|4To1MUX.v|TriStateBuffer.v|TriState4To1MUX.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateMUXCompareNandMUXTB.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateMUXCompareNandMUXTB.v|
 !i113 1
-Z7 o-work work
-Z8 tCvgOpt 0
-n@tow@i@nand
-vTwoINand
-Z9 !s110 1615537180
-!i10b 1
-!s100 QZQBUbz=of`803;fioGM]2
-Z10 !s11b Dg1SIo80bB@j0V0VzS_@n1
-I2;fjd2el>?@QcPdB?m>YE0
+Z8 o-work work
+Z9 tCvgOpt 0
+n@four@input@nand
+vNandMUX
 R0
+!i10b 1
+!s100 cdQSzzaIa_RiSi0JBnY>J3
 R1
-w1615535154
+I@`jaFl1hH`1>G4eLQd09N3
 R2
 R3
-!i122 8
+w1615663365
+84To1MUX.v
+F4To1MUX.v
+!i122 130
+L0 9 11
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 FourInputNand.v|ThreeInputNand.v|TwoInputNand.v|4To1MUX.v|TriStateBuffer.v|TriState4To1MUX.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateMUXCompareNandMUXTB.v|
+R7
+!i113 1
+R8
+R9
+n@nand@m@u@x
+vNandMUXTB
+Z11 !s110 1615753593
+!i10b 1
+!s100 ifTKJaGYzCeHjd<YWc75J3
+R1
+I<>DVXfOb5bk0[oA[6g@bg0
+R2
+R3
+w1615663282
+8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/4To1MUXTB.v
+FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/4To1MUXTB.v
+!i122 127
+Z12 L0 5 14
+R5
+r1
+!s85 0
+31
+R6
+!s107 FourInputNand.v|ThreeInputNand.v|TwoInputNand.v|4To1MUX.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/4To1MUXTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/4To1MUXTB.v|
+!i113 1
+R8
+R9
+n@nand@m@u@x@t@b
+vThreeInputNand
+R0
+!i10b 1
+!s100 OLImgfRC:<@M:HZ:=GKOS3
+R1
+IVD>ASOh`YS`Bf9[fV^HSm0
+R2
+R3
+w1615663212
+8ThreeInputNand.v
+FThreeInputNand.v
+!i122 130
 R4
 R5
 r1
 !s85 0
 31
-Z11 !s108 1615537180.000000
-Z12 !s107 TwoInputNand.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v|
 R6
-!i113 1
+R10
 R7
+!i113 1
 R8
+R9
+n@three@input@nand
+vTowINand
+!s110 1615532580
+R2
+r1
+!s85 0
+!i10b 1
+!s100 [iZ>7L?zd?gGX:Dd<YC:j3
+I;4VeDj=[fK7GFP55V^;3V3
+R3
+w1615531928
+Z13 8TwoInputNand.v
+Z14 FTwoInputNand.v
+!i122 2
+Z15 L0 4 7
+R5
+31
+!s108 1615532580.000000
+Z16 !s107 TwoInputNand.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v|
+!i113 1
+R8
+R9
+n@tow@i@nand
+vTriStateBuffer
+R11
+!i10b 1
+!s100 4YkUZD:@:^44el9i>16880
+R1
+IWTnJPkh<kJB;];kM?>_N10
+R2
+R3
+w1615655060
+8TriStateBuffer.v
+FTriStateBuffer.v
+!i122 130
+L0 3 7
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+n@tri@state@buffer
+vTriStateBufferTb
+Z18 !s110 1615753592
+!i10b 1
+!s100 FU_i[FSj3`lU^8?Lkn@cg1
+R1
+IgRH=fgkgSLn1ZT_KabJoU1
+R2
+R3
+w1615656217
+8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateBufferTB.v
+FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateBufferTB.v
+!i122 123
+L0 5 13
+R5
+r1
+!s85 0
+31
+Z19 !s108 1615753592.000000
+!s107 TriStateBuffer.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateBufferTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateBufferTB.v|
+!i113 1
+R8
+R9
+n@tri@state@buffer@tb
+vTriStateMUX
+R11
+!i10b 1
+!s100 4bGQF<E5I?:h9NV4:`^ID3
+R1
+IH:U=CkJE:>^eU<J0G:aB72
+R2
+R3
+w1615741810
+8TriState4To1MUX.v
+FTriState4To1MUX.v
+!i122 130
+L0 7 18
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+n@tri@state@m@u@x
+vTriStateMUXCompareNandMUXTB
+R0
+!i10b 1
+!s100 :c=hkWj4e8YYd[l3^NM2U0
+R1
+IU5M1GeHRRQ[TlG5_=4nG<1
+R2
+R3
+w1615753585
+8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateMUXCompareNandMUXTB.v
+FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateMUXCompareNandMUXTB.v
+!i122 130
+L0 7 15
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+n@tri@state@m@u@x@compare@nand@m@u@x@t@b
+vTriStateMUXTB
+R11
+!i10b 1
+!s100 R^02^zP=aG43<FFWEnV:H0
+R1
+I^3l06ez^7ZoMRWkSjG:d90
+R2
+R3
+w1615743054
+8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriState4To1MUXTB.v
+FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriState4To1MUXTB.v
+!i122 129
+R12
+R5
+r1
+!s85 0
+31
+R6
+!s107 TriStateBuffer.v|TriState4To1MUX.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriState4To1MUXTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriState4To1MUXTB.v|
+!i113 1
+R8
+R9
+n@tri@state@m@u@x@t@b
+vTwoINand
+R0
+!i10b 1
+!s100 QZQBUbz=of`803;fioGM]2
+R1
+I2;fjd2el>?@QcPdB?m>YE0
+R2
+R3
+w1615535154
+R13
+R14
+!i122 130
+R15
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
 n@two@i@nand
 vTwoINand_TB
-R9
+R18
 !i10b 1
 !s100 bdMJ@S?OVe]JbZUU=SYh_1
-R10
-IPE8<Ib2JjDDDfMAJJ=65N2
-R0
 R1
+IPE8<Ib2JjDDDfMAJJ=65N2
+R2
+R3
 w1615536561
 8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v
 FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TwoInputNandTB.v
-!i122 8
+!i122 121
 L0 6 13
 R5
 r1
 !s85 0
 31
-R11
-R12
-R6
+R19
+R16
+R17
 !i113 1
-R7
 R8
+R9
 n@two@i@nand_@t@b
