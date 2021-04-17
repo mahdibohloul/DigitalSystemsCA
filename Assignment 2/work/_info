@@ -1,0 +1,232 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1618653132
+VKb_7>2IO[YaY[9BeDiZbX1
+04 22 4 work FourBitBarrelShifterTB fast 0
+=1-fcaa14dff748-607aafcb-2f7-21fc
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1618658405
+VjC=j]zG7OQQ2j`D=:7bI50
+04 17 4 work SixteenToOneMUXTB fast 0
+=1-fcaa14dff748-607ac465-12c-3130
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1618660656
+V7TbT<ih67FQ@eG[QdHkc71
+04 25 4 work SixteenBitBarrelShifterTB fast 0
+=1-fcaa14dff748-607acd30-6a-18e4
+R1
+R2
+n@_opt2
+R3
+vFourBitBarrelShifter
+Z4 !s110 1618660639
+!i10b 1
+!s100 `Ef6m:9AQ;=eHU<G_ga;c1
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ICU[G^R0g5fDbLWiQ4HC7e3
+Z6 dC:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2
+w1618653101
+8FourBitBarrelShifter.v
+FFourBitBarrelShifter.v
+!i122 78
+L0 4 6
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1618660639.000000
+Z10 !s107 FourToOneMUX.v|FourBitBarrelShifter.v|C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourBitBarrelShifterTB.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourBitBarrelShifterTB.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@four@bit@barrel@shifter
+vFourBitBarrelShifterTB
+R4
+!i10b 1
+!s100 iNVQXfX;K<065;Tf97EC=1
+R5
+ILF1AnKN0b7BcdLO?eml7C3
+R6
+w1618652852
+8C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourBitBarrelShifterTB.v
+FC:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourBitBarrelShifterTB.v
+!i122 78
+L0 5 13
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
+n@four@bit@barrel@shifter@t@b
+vFourToOneMUX
+R4
+!i10b 1
+!s100 ^E90]V1FWIT>8JNS5>gba2
+R5
+I]DQijlRU8[TO@<bDaFZLD0
+R6
+w1618650518
+8FourToOneMUX.v
+FFourToOneMUX.v
+!i122 82
+L0 4 3
+R7
+R8
+r1
+!s85 0
+31
+R9
+Z13 !s107 FourToOneMUX.v|SixteenToOneMUX.v|C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenBitBarrelShifter.v|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenBitBarrelShifter.v|
+!i113 0
+R12
+R2
+n@four@to@one@m@u@x
+vFourToOneMUXTB
+R4
+!i10b 1
+!s100 >SNBz35YS1?FI99?o=O[z2
+R5
+I86L^?KgIJHj<_?n0f<CTc0
+R6
+w1618650853
+8C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourToOneMUXTB.v
+FC:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourToOneMUXTB.v
+!i122 76
+Z15 L0 4 14
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 FourToOneMUX.v|C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourToOneMUXTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourToOneMUXTB.v|
+!i113 0
+R12
+R2
+n@four@to@one@m@u@x@t@b
+vSixteenBitBarrelShifter
+R4
+!i10b 1
+!s100 Sn;3Z2h?[90GP7h5eOdV`3
+R5
+IKF;K84Ic[e:]cDMSH<;VN1
+R6
+w1618660622
+8C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenBitBarrelShifter.v
+FC:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenBitBarrelShifter.v
+!i122 82
+L0 5 18
+R7
+R8
+r1
+!s85 0
+31
+R9
+R13
+R14
+!i113 0
+R12
+R2
+n@sixteen@bit@barrel@shifter
+vSixteenBitBarrelShifterTB
+R4
+!i10b 1
+!s100 gGSo0PO<7X<gJUWWY?4=10
+R5
+IWRoabmZcm`WE7cJzzJ[KJ3
+R6
+w1618660565
+8C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenBitBarrelShifterTB.v
+FC:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenBitBarrelShifterTB.v
+!i122 81
+R15
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 FourToOneMUX.v|SixteenToOneMUX.v|SixteenBitBarrelShifter.v|C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenBitBarrelShifterTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenBitBarrelShifterTB.v|
+!i113 0
+R12
+R2
+n@sixteen@bit@barrel@shifter@t@b
+vSixteenToOneMUX
+R4
+!i10b 1
+!s100 >Sl5=9LChR57I>=SND@??0
+R5
+IJ8Z4S0`LK5`mGQD2Xc<_70
+R6
+w1618657669
+8SixteenToOneMUX.v
+FSixteenToOneMUX.v
+!i122 82
+L0 4 8
+R7
+R8
+r1
+!s85 0
+31
+R9
+R13
+R14
+!i113 0
+R12
+R2
+n@sixteen@to@one@m@u@x
+vSixteenToOneMUXTB
+R4
+!i10b 1
+!s100 0WZn4iER=F2I:KLc;NC^a2
+R5
+I1DY]lF<UXcC>R_dSok?Nm2
+R6
+w1618658369
+8C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenToOneMUXTB.v
+FC:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenToOneMUXTB.v
+!i122 80
+L0 4 15
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 FourToOneMUX.v|SixteenToOneMUX.v|C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenToOneMUXTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenToOneMUXTB.v|
+!i113 0
+R12
+R2
+n@sixteen@to@one@m@u@x@t@b
