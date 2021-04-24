@@ -20,6 +20,19 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	TwoINand_TB
 
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateMUXCompareNandMUXTB.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriStateMUXCompareNandMUXTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TriStateBuffer
+-- Compiling module TriStateMUX
+-- Compiling module TwoINand
+-- Compiling module ThreeInputNand
+-- Compiling module FourInputNand
+-- Compiling module NandMUX
+-- Compiling module TriStateMUXCompareNandMUXTB
+
+Top level modules:
+	TriStateMUXCompareNandMUXTB
+
 } {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriState4To1MUX.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 1/TriState4To1MUX.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module TriStateBuffer
