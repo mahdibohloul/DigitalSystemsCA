@@ -1,0 +1,69 @@
+{C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenBitBarrelShifter.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenBitBarrelShifter.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FourToOneMUX
+-- Compiling module SixteenToOneMUX
+-- Compiling module SixteenBitBarrelShifter
+
+Top level modules:
+	SixteenBitBarrelShifter
+
+} {} {}} {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourBitBarrelShifter.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourBitBarrelShifter.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FourToOneMUX
+-- Compiling module FourBitBarrelShifter
+
+Top level modules:
+	FourBitBarrelShifter
+
+} {} {}} {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenToOneMUXTB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenToOneMUXTB.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FourToOneMUX
+-- Compiling module SixteenToOneMUX
+-- Compiling module SixteenToOneMUXTB
+
+Top level modules:
+	SixteenToOneMUXTB
+
+} {} {}} {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourToOneMUXTB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourToOneMUXTB.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FourToOneMUX
+-- Compiling module FourToOneMUXTB
+
+Top level modules:
+	FourToOneMUXTB
+
+} {} {}} {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenBitBarrelShifterTB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenBitBarrelShifterTB.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FourToOneMUX
+-- Compiling module SixteenToOneMUX
+-- Compiling module SixteenBitBarrelShifter
+-- Compiling module SixteenBitBarrelShifterTB
+
+Top level modules:
+	SixteenBitBarrelShifterTB
+
+} {} {}} {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourBitBarrelShifterTB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourBitBarrelShifterTB.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FourToOneMUX
+-- Compiling module FourBitBarrelShifter
+-- Compiling module FourBitBarrelShifterTB
+
+Top level modules:
+	FourBitBarrelShifterTB
+
+} {} {}} {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenToOneMUX.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/SixteenToOneMUX.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FourToOneMUX
+-- Compiling module SixteenToOneMUX
+
+Top level modules:
+	SixteenToOneMUX
+
+} {} {}} {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourToOneMUX.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Desktop/DigitalSystemsAssignments/Assignment 2/FourToOneMUX.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FourToOneMUX
+
+Top level modules:
+	FourToOneMUX
+
+} {} {}}
