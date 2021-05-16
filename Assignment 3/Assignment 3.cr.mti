@@ -1,0 +1,71 @@
+{D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OneBitFullAdderS.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OneBitFullAdderS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OneBitFullAdderS
+
+Top level modules:
+	OneBitFullAdderS
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderASTB.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderASTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NBitAdderAS
+-- Compiling module NBitAdderASTB
+
+Top level modules:
+	NBitAdderASTB
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounterAlwaysSt.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounterAlwaysSt.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OTSBitsCounterAlwaysST
+
+Top level modules:
+	OTSBitsCounterAlwaysST
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounter.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NBitAdderAS
+-- Compiling module PackageZero
+-- Compiling module PackageOne
+-- Compiling module PackageTwo
+-- Compiling module PackageThree
+-- Compiling module OTSBitsCounter
+
+Top level modules:
+	OTSBitsCounter
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderS.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OneBitFullAdderS
+-- Compiling module NBitAdderS
+
+Top level modules:
+	NBitAdderS
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OneBitFullAdderSTB.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OneBitFullAdderSTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OneBitFullAdderS
+-- Compiling module OneBitFullAdderTB
+
+Top level modules:
+	OneBitFullAdderTB
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderAS.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderAS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NBitAdderAS
+
+Top level modules:
+	NBitAdderAS
+
+} {} {}} {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounterTB.v} {1 {vlog -work work -stats=none {D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounterTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NBitAdderAS
+-- Compiling module PackageZero
+-- Compiling module PackageOne
+-- Compiling module PackageTwo
+-- Compiling module PackageThree
+-- Compiling module OTSBitsCounter
+-- Compiling module OTSBitsCounterTB
+
+Top level modules:
+	OTSBitsCounterTB
+
+} {} {}}

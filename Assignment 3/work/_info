@@ -1,0 +1,347 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Codes/Digital Systems Assignments/Semester 4/HW4
+vNBitAdder
+!s110 1621092660
+!i10b 1
+!s100 hlM6]hCe3bgeA1Hn2XFSM0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Id0LzDfz31iJd58SFOH2;S1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Codes/Digital Systems Assignments/Semester 4/Assignment 3
+w1621091528
+8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdder.v
+FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdder.v
+!i122 19
+Z3 L0 4 11
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1621092660.000000
+!s107 OneBitFullAdder.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@n@bit@adder
+vNBitAdderAS
+Z7 !s110 1621152408
+!i10b 1
+!s100 H[H><@Q99:B_[4>:`cG]91
+R0
+IbX_6G:aUbIKgYcS^ce`oW1
+R1
+R2
+w1621096355
+8NBitAdderAS.v
+FNBitAdderAS.v
+!i122 89
+L0 4 3
+R4
+r1
+!s85 0
+31
+Z8 !s108 1621152408.000000
+Z9 !s107 NBitAdderAS.v|OTSBitsCounter.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounterTB.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounterTB.v|
+!i113 1
+R5
+R6
+n@n@bit@adder@a@s
+vNBitAdderASTB
+Z11 !s110 1621152407
+!i10b 1
+!s100 ?D3Yjn`TfWUXm70j:nPd]3
+R0
+IPYnRfgGfazfiVTaRH=U2J0
+R1
+R2
+w1621097778
+8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderASTB.v
+FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderASTB.v
+!i122 87
+L0 6 17
+R4
+r1
+!s85 0
+31
+Z12 !s108 1621152407.000000
+!s107 NBitAdderAS.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderASTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderASTB.v|
+!i113 1
+R5
+R6
+n@n@bit@adder@a@s@t@b
+vNBitAdderS
+R11
+!i10b 1
+!s100 kQYNgDnkoT5N`@Z<zo24F1
+R0
+IkG?gLaUGGD`[@N^R3]m0M0
+R1
+R2
+w1621094927
+8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderS.v
+FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderS.v
+!i122 83
+R3
+R4
+r1
+!s85 0
+31
+R12
+!s107 OneBitFullAdderS.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/NBitAdderS.v|
+!i113 1
+R5
+R6
+n@n@bit@adder@s
+vOneBitFullAdder
+!s110 1621093636
+!i10b 1
+!s100 cSMPG[P<<DB>86EKU6GkR2
+R0
+IRkIoGMAJUhClm8kDYA?LC3
+R1
+R2
+w1621090631
+8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OneBitFullAdderS.v
+FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OneBitFullAdderS.v
+!i122 22
+Z13 L0 4 9
+R4
+r1
+!s85 0
+31
+!s108 1621093636.000000
+!s107 D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OneBitFullAdderS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OneBitFullAdderS.v|
+!i113 1
+R5
+R6
+n@one@bit@full@adder
+vOneBitFullAdderS
+R11
+!i10b 1
+!s100 0bcoY_TlI@[9`TPMjEP?W3
+R0
+I5L2<cPz]3[k4B<j4:Sa``0
+R1
+R2
+w1621093689
+8OneBitFullAdderS.v
+FOneBitFullAdderS.v
+!i122 85
+R13
+R4
+r1
+!s85 0
+31
+R12
+Z14 !s107 OneBitFullAdderS.v|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OneBitFullAdderSTB.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OneBitFullAdderSTB.v|
+!i113 1
+R5
+R6
+n@one@bit@full@adder@s
+vOneBitFullAdderTB
+R11
+!i10b 1
+!s100 ^zadFaH?^[F>I:5m2Z@FS0
+R0
+IZNRJ>jDiL2Mc7E1A6_Dc23
+R1
+R2
+w1621093680
+8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OneBitFullAdderSTB.v
+FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OneBitFullAdderSTB.v
+!i122 85
+L0 5 13
+R4
+r1
+!s85 0
+31
+R12
+R14
+R15
+!i113 1
+R5
+R6
+n@one@bit@full@adder@t@b
+vOTSBitsCounter
+R7
+!i10b 1
+!s100 3]QOY7mnG243HGmIZiO4d0
+R0
+Iaab<jg2AD1XHJfKhIV:@K2
+R1
+R2
+Z16 w1621150650
+Z17 8OTSBitsCounter.v
+Z18 FOTSBitsCounter.v
+!i122 89
+L0 49 10
+R4
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@o@t@s@bits@counter
+vOTSBitsCounterAlwaysST
+R7
+!i10b 1
+!s100 iR7eE<aG9AN[Y<3QWneiT3
+R0
+IGg3ldLRIiKdNK^MDRb1Bk1
+R1
+R2
+w1621151335
+8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounterAlwaysSt.v
+FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounterAlwaysSt.v
+!i122 90
+R13
+R4
+r1
+!s85 0
+31
+R8
+!s107 D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounterAlwaysSt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounterAlwaysSt.v|
+!i113 1
+R5
+R6
+n@o@t@s@bits@counter@always@s@t
+vOTSBitsCounterTB
+R7
+!i10b 1
+!s100 B]lb_8=j0m;STj@W=dSVG3
+R0
+IihWc8M:b60S<ABBj?G09X3
+R1
+R2
+w1621144284
+8D:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounterTB.v
+FD:/Codes/Digital Systems Assignments/Semester 4/Assignment 3/OTSBitsCounterTB.v
+!i122 89
+L0 5 6
+R4
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@o@t@s@bits@counter@t@b
+vPackageOne
+R7
+!i10b 1
+!s100 Iz5bZVKQF7VlhE7?kP35K2
+R0
+Iac57Bi56K79I60R<N>@WJ1
+R1
+R2
+R16
+R17
+R18
+!i122 89
+L0 14 10
+R4
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@package@one
+vPackageThree
+R7
+!i10b 1
+!s100 bZ@BWVQ9^O=Nao6k[e1n;2
+R0
+I^n[JM^gWVm0OJfgRm=1TA1
+R1
+R2
+R16
+R17
+R18
+!i122 89
+L0 37 11
+R4
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@package@three
+vPackageTwo
+R7
+!i10b 1
+!s100 _=Zdfh;_U]?[`I0LY4CS12
+R0
+IiZ@F6@ZdzQ1]YcWDanm:b2
+R1
+R2
+R16
+R17
+R18
+!i122 89
+L0 26 10
+R4
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@package@two
+vPackageZero
+R7
+!i10b 1
+!s100 lbW`2iIGQ1jjY_`LlJP>Q3
+R0
+I<^zP2V0E6[Z3kQl5T_F_62
+R1
+R2
+R16
+R17
+R18
+!i122 89
+L0 6 6
+R4
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@package@zero

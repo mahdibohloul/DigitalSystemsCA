@@ -1,0 +1,37 @@
+# Compile of NBitAdderS.v was successful.
+# Compile of OneBitFullAdderS.v was successful.
+# Compile of OneBitFullAdderSTB.v was successful.
+# Compile of NBitAdderAS.v was successful.
+# Compile of NBitAdderASTB.v was successful.
+# Compile of OTSBitsCounter.v was successful.
+# Compile of OTSBitsCounterTB.v was successful.
+# Compile of OTSBitsCounterAlwaysSt.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim work.OTSBitsCounterTB
+# vsim work.OTSBitsCounterTB 
+# Start time: 12:08:35 on May 16,2021
+# Loading work.OTSBitsCounterTB
+# Loading work.OTSBitsCounter
+# Loading work.NBitAdderAS
+# Loading work.PackageThree
+# Loading work.PackageTwo
+# Loading work.PackageOne
+# Loading work.PackageZero
+add wave -position insertpoint  \
+sim:/OTSBitsCounterTB/aa \
+sim:/OTSBitsCounterTB/ww
+run -all
+# Break key hit
+# Simulation stop requested.
+quit -sim
+# End time: 12:11:26 on May 16,2021, Elapsed time: 0:02:51
+# Errors: 0, Warnings: 2
+# Compile of NBitAdderS.v was successful.
+# Compile of OneBitFullAdderS.v was successful.
+# Compile of OneBitFullAdderSTB.v was successful.
+# Compile of NBitAdderAS.v was successful.
+# Compile of NBitAdderASTB.v was successful.
+# Compile of OTSBitsCounter.v was successful.
+# Compile of OTSBitsCounterTB.v was successful.
+# Compile of OTSBitsCounterAlwaysSt.v was successful.
+# 8 compiles, 0 failed with no errors.
