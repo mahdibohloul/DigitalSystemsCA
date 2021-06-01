@@ -1,0 +1,27 @@
+{C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/SRLatchNITB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/SRLatchNITB.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module SRLatchNI
+-- Compiling module SRLatchNITB
+
+Top level modules:
+	SRLatchNITB
+
+} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/SRLatchNI.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/SRLatchNI.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module SRLatchNI
+
+Top level modules:
+	SRLatchNI
+
+} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DLatchNITB.v} {2 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DLatchNITB.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module SRLatchNI
+-- Compiling module SRLatchNI
+** Warning: ** while parsing file included at C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DLatchNITB.v(1)
+** at DLatchNI.v(5): (vlog-2275) Existing module 'SRLatchNI' at SRLatchNI.v(4) will be overwritten.
+-- Compiling module DLatchNITB
+
+Top level modules:
+	DLatchNITB
+
+} {} {}}
