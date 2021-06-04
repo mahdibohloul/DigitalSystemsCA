@@ -1,5 +1,75 @@
-{C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDFFGenTB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDFFGenTB.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+{/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDLatch.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDLatch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRLatchNI
+-- Compiling module DLatchNI
+-- Compiling module ShiftRegisterDLatch
+
+Top level modules:
+	ShiftRegisterDLatch
+
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/DFlipFlopSyResTB.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/DFlipFlopSyResTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRLatchNI
+-- Compiling module DLatchNI
+-- Compiling module DFlipFlopSyRes
+-- Compiling module DFlipFlopSyResTB
+
+Top level modules:
+	DFlipFlopSyResTB
+
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDFFGen.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDFFGen.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRLatchNI
+-- Compiling module DLatchNI
+-- Compiling module DFlipFlopSyRes
+-- Compiling module ShiftRegisterDFFGen
+
+Top level modules:
+	ShiftRegisterDFFGen
+
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/DLatchNITB.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/DLatchNITB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRLatchNI
+-- Compiling module DLatchNI
+-- Compiling module DLatchNITB
+
+Top level modules:
+	DLatchNITB
+
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDFFAS.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDFFAS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftRegisterDFFAS
+
+Top level modules:
+	ShiftRegisterDFFAS
+
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/LFSR.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/LFSR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftRegisterDFFAS
+-- Compiling module LFSR
+
+Top level modules:
+	LFSR
+
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/SRLatchNI.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/SRLatchNI.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRLatchNI
+
+Top level modules:
+	SRLatchNI
+
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDLatchTB.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDLatchTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRLatchNI
+-- Compiling module DLatchNI
+-- Compiling module ShiftRegisterDLatch
+-- Compiling module ShiftRegisterDLatchTB
+
+Top level modules:
+	ShiftRegisterDLatchTB
+
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDFFGenTB.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDFFGenTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module SRLatchNI
 -- Compiling module DLatchNI
 -- Compiling module DFlipFlopSyRes
@@ -9,78 +79,8 @@ Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
 Top level modules:
 	ShiftRegisterDFFGenTB
 
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DFlipFlopSyResTB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DFlipFlopSyResTB.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module SRLatchNI
--- Compiling module DLatchNI
--- Compiling module DFlipFlopSyRes
--- Compiling module DFlipFlopSyResTB
-
-Top level modules:
-	DFlipFlopSyResTB
-
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DLatchNITB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DLatchNITB.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module SRLatchNI
--- Compiling module DLatchNI
--- Compiling module DLatchNITB
-
-Top level modules:
-	DLatchNITB
-
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDFFAS.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDFFAS.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module ShiftRegisterDFFAS
-
-Top level modules:
-	ShiftRegisterDFFAS
-
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/SRLatchNITB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/SRLatchNITB.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module SRLatchNI
--- Compiling module SRLatchNITB
-
-Top level modules:
-	SRLatchNITB
-
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/LFSR.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/LFSR.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module ShiftRegisterDFFAS
--- Compiling module LFSR
-
-Top level modules:
-	LFSR
-
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DFlipFlop.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DFlipFlop.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module SRLatchNI
--- Compiling module DLatchNI
--- Compiling module DFlipFlop
-
-Top level modules:
-	DFlipFlop
-
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDLatch.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDLatch.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module SRLatchNI
--- Compiling module DLatchNI
--- Compiling module ShiftRegisterDLatch
-
-Top level modules:
-	ShiftRegisterDLatch
-
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDFFGen.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDFFGen.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module SRLatchNI
--- Compiling module DLatchNI
--- Compiling module DFlipFlopSyRes
--- Compiling module ShiftRegisterDFFGen
-
-Top level modules:
-	ShiftRegisterDFFGen
-
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/LFSRTB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/LFSRTB.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/LFSRTB.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/LFSRTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module ShiftRegisterDFFAS
 -- Compiling module LFSR
 -- Compiling module LFSRTB
@@ -88,8 +88,16 @@ Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
 Top level modules:
 	LFSRTB
 
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DFlipFlopSyRes.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DFlipFlopSyRes.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/SRLatchNITB.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/SRLatchNITB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRLatchNI
+-- Compiling module SRLatchNITB
+
+Top level modules:
+	SRLatchNITB
+
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/DFlipFlopSyRes.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/DFlipFlopSyRes.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module SRLatchNI
 -- Compiling module DLatchNI
 -- Compiling module DFlipFlopSyRes
@@ -97,29 +105,21 @@ Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
 Top level modules:
 	DFlipFlopSyRes
 
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DLatchNI.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/DLatchNI.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/DLatchNI.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/DLatchNI.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module SRLatchNI
 -- Compiling module DLatchNI
 
 Top level modules:
 	DLatchNI
 
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/SRLatchNI.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/SRLatchNI.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module SRLatchNI
-
-Top level modules:
-	SRLatchNI
-
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDLatchTB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 4/8BitShiftRegisterDLatchTB.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+} {} {}} {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/DFlipFlop.v} {1 {vlog -work work -stats=none {/home/mahdi/Codes/DigitalSystemsCA/Assignment 4/DFlipFlop.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module SRLatchNI
 -- Compiling module DLatchNI
--- Compiling module ShiftRegisterDLatch
--- Compiling module ShiftRegisterDLatchTB
+-- Compiling module DFlipFlop
 
 Top level modules:
-	ShiftRegisterDLatchTB
+	DFlipFlop
 
 } {} {}}

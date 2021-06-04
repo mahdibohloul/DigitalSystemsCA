@@ -1,0 +1,37 @@
+# Loading project Assignment 4
+# 0 compiles, 14 failed with no errors.
+# Compile of 8BitShiftRegisterDFFAS.v was successful.
+# Compile of 8BitShiftRegisterDFFGen.v was successful.
+# Compile of 8BitShiftRegisterDFFGenTB.v was successful.
+# Compile of 8BitShiftRegisterDLatch.v was successful.
+# Compile of 8BitShiftRegisterDLatchTB.v was successful.
+# Compile of DFlipFlop.v was successful.
+# Compile of DFlipFlopSyRes.v was successful.
+# Compile of DFlipFlopSyResTB.v was successful.
+# Compile of DLatchNI.v was successful.
+# Compile of DLatchNITB.v was successful.
+# Compile of LFSR.v was successful.
+# Compile of LFSRTB.v was successful.
+# Compile of SRLatchNI.v was successful.
+# Compile of SRLatchNITB.v was successful.
+# 14 compiles, 0 failed with no errors.
+vsim work.DFlipFlopSyResTB
+# vsim work.DFlipFlopSyResTB 
+# Start time: 10:48:53 on Jun 03,2021
+# Loading work.DFlipFlopSyResTB
+# Loading work.DFlipFlopSyRes
+# Loading work.DLatchNI
+# Loading work.SRLatchNI
+add wave -position insertpoint  \
+sim:/DFlipFlopSyResTB/dd \
+sim:/DFlipFlopSyResTB/res \
+sim:/DFlipFlopSyResTB/clk \
+sim:/DFlipFlopSyResTB/q \
+sim:/DFlipFlopSyResTB/qn
+run -all
+# ** Note: $stop    : /home/mahdi/Codes/DigitalSystemsCA/Assignment 4/DFlipFlopSyResTB.v(17)
+#    Time: 2600 ns  Iteration: 0  Instance: /DFlipFlopSyResTB
+# Break in Module DFlipFlopSyResTB at /home/mahdi/Codes/DigitalSystemsCA/Assignment 4/DFlipFlopSyResTB.v line 17
+quit -sim
+# End time: 10:49:30 on Jun 03,2021, Elapsed time: 0:00:37
+# Errors: 0, Warnings: 7
