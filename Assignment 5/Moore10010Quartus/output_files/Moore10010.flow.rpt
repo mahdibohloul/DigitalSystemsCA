@@ -1,5 +1,5 @@
 Flow report for Moore10010
-Sun Jun 13 14:34:55 2021
+Sun Jun 13 23:16:22 2021
 Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
 
 
@@ -41,26 +41,26 @@ https://fpgasoftware.intel.com/eula.
 +----------------------------------------------------------------------------------+
 ; Flow Summary                                                                     ;
 +------------------------------------+---------------------------------------------+
-; Flow Status                        ; Successful - Sun Jun 13 14:34:55 2021       ;
+; Flow Status                        ; Successful - Sun Jun 13 23:16:22 2021       ;
 ; Quartus Prime Version              ; 20.1.1 Build 720 11/11/2020 SJ Lite Edition ;
 ; Revision Name                      ; Moore10010                                  ;
 ; Top-level Entity Name              ; Moore10010                                  ;
 ; Family                             ; Cyclone IV GX                               ;
-; Device                             ; EP4CGX15BF14A7                              ;
+; Device                             ; EP4CGX150DF31I7                             ;
 ; Timing Models                      ; Final                                       ;
-; Total logic elements               ; 5 / 14,400 ( < 1 % )                        ;
-;     Total combinational functions  ; 5 / 14,400 ( < 1 % )                        ;
-;     Dedicated logic registers      ; 5 / 14,400 ( < 1 % )                        ;
+; Total logic elements               ; 5 / 149,760 ( < 1 % )                       ;
+;     Total combinational functions  ; 5 / 149,760 ( < 1 % )                       ;
+;     Dedicated logic registers      ; 5 / 149,760 ( < 1 % )                       ;
 ; Total registers                    ; 5                                           ;
-; Total pins                         ; 4 / 81 ( 5 % )                              ;
+; Total pins                         ; 4 / 508 ( < 1 % )                           ;
 ; Total virtual pins                 ; 0                                           ;
-; Total memory bits                  ; 0 / 552,960 ( 0 % )                         ;
-; Embedded Multiplier 9-bit elements ; 0                                           ;
-; Total GXB Receiver Channel PCS     ; 0 / 2 ( 0 % )                               ;
-; Total GXB Receiver Channel PMA     ; 0 / 2 ( 0 % )                               ;
-; Total GXB Transmitter Channel PCS  ; 0 / 2 ( 0 % )                               ;
-; Total GXB Transmitter Channel PMA  ; 0 / 2 ( 0 % )                               ;
-; Total PLLs                         ; 0 / 3 ( 0 % )                               ;
+; Total memory bits                  ; 0 / 6,635,520 ( 0 % )                       ;
+; Embedded Multiplier 9-bit elements ; 0 / 720 ( 0 % )                             ;
+; Total GXB Receiver Channel PCS     ; 0 / 8 ( 0 % )                               ;
+; Total GXB Receiver Channel PMA     ; 0 / 8 ( 0 % )                               ;
+; Total GXB Transmitter Channel PCS  ; 0 / 8 ( 0 % )                               ;
+; Total GXB Transmitter Channel PMA  ; 0 / 8 ( 0 % )                               ;
+; Total PLLs                         ; 0 / 8 ( 0 % )                               ;
 +------------------------------------+---------------------------------------------+
 
 
@@ -69,7 +69,7 @@ https://fpgasoftware.intel.com/eula.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 06/13/2021 14:34:24 ;
+; Start date & time ; 06/13/2021 23:15:50 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; Moore10010          ;
 +-------------------+---------------------+
@@ -80,7 +80,7 @@ https://fpgasoftware.intel.com/eula.
 +-------------------------------------+----------------------------------------+---------------+-------------+-----------------------------------+
 ; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id                        ;
 +-------------------------------------+----------------------------------------+---------------+-------------+-----------------------------------+
-; COMPILER_SIGNATURE_ID               ; 75064541466451.162357866405748         ; --            ; --          ; --                                ;
+; COMPILER_SIGNATURE_ID               ; 26792269952888.162360995053124         ; --            ; --          ; --                                ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST     ; Off                                    ; --            ; --          ; eda_board_design_timing           ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST     ; Off                                    ; --            ; --          ; eda_simulation                    ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST     ; Off                                    ; --            ; --          ; eda_board_design_boundary_scan    ;
@@ -89,7 +89,7 @@ https://fpgasoftware.intel.com/eula.
 ; EDA_OUTPUT_DATA_FORMAT              ; Verilog Hdl                            ; --            ; --          ; eda_simulation                    ;
 ; EDA_SIMULATION_TOOL                 ; ModelSim (Verilog)                     ; <None>        ; --          ; --                                ;
 ; EDA_TIME_SCALE                      ; 1 ps                                   ; --            ; --          ; eda_simulation                    ;
-; MAX_CORE_JUNCTION_TEMP              ; 125                                    ; --            ; --          ; --                                ;
+; MAX_CORE_JUNCTION_TEMP              ; 100                                    ; --            ; --          ; --                                ;
 ; MIN_CORE_JUNCTION_TEMP              ; -40                                    ; --            ; --          ; --                                ;
 ; NOMINAL_CORE_SUPPLY_VOLTAGE         ; 1.2V                                   ; --            ; --          ; --                                ;
 ; PARTITION_COLOR                     ; -- (Not supported for targeted family) ; --            ; --          ; Top                               ;
@@ -106,26 +106,26 @@ https://fpgasoftware.intel.com/eula.
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis ; 00:00:12     ; 1.0                     ; 4842 MB             ; 00:00:24                           ;
-; Fitter               ; 00:00:07     ; 1.0                     ; 5600 MB             ; 00:00:07                           ;
-; Assembler            ; 00:00:04     ; 1.0                     ; 4772 MB             ; 00:00:03                           ;
-; Timing Analyzer      ; 00:00:03     ; 1.0                     ; 4774 MB             ; 00:00:04                           ;
-; EDA Netlist Writer   ; 00:00:02     ; 1.0                     ; 4730 MB             ; 00:00:03                           ;
-; Total                ; 00:00:28     ; --                      ; --                  ; 00:00:41                           ;
+; Analysis & Synthesis ; 00:00:08     ; 1.0                     ; 510 MB              ; 00:00:23                           ;
+; Fitter               ; 00:00:15     ; 1.0                     ; 1291 MB             ; 00:00:23                           ;
+; Assembler            ; 00:00:04     ; 1.0                     ; 443 MB              ; 00:00:04                           ;
+; Timing Analyzer      ; 00:00:02     ; 1.0                     ; 565 MB              ; 00:00:02                           ;
+; EDA Netlist Writer   ; 00:00:00     ; 1.0                     ; 691 MB              ; 00:00:01                           ;
+; Total                ; 00:00:29     ; --                      ; --                  ; 00:00:53                           ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 
-+------------------------------------------------------------------------------------+
-; Flow OS Summary                                                                    ;
-+----------------------+------------------+------------+------------+----------------+
-; Module Name          ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
-+----------------------+------------------+------------+------------+----------------+
-; Analysis & Synthesis ; Deve-13          ; Windows 10 ; 10.0       ; x86_64         ;
-; Fitter               ; Deve-13          ; Windows 10 ; 10.0       ; x86_64         ;
-; Assembler            ; Deve-13          ; Windows 10 ; 10.0       ; x86_64         ;
-; Timing Analyzer      ; Deve-13          ; Windows 10 ; 10.0       ; x86_64         ;
-; EDA Netlist Writer   ; Deve-13          ; Windows 10 ; 10.0       ; x86_64         ;
-+----------------------+------------------+------------+------------+----------------+
++--------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                      ;
++----------------------+------------------+--------------+------------+----------------+
+; Module Name          ; Machine Hostname ; OS Name      ; OS Version ; Processor type ;
++----------------------+------------------+--------------+------------+----------------+
+; Analysis & Synthesis ; mahdi            ; Ubuntu 21.04 ; 21         ; x86_64         ;
+; Fitter               ; mahdi            ; Ubuntu 21.04 ; 21         ; x86_64         ;
+; Assembler            ; mahdi            ; Ubuntu 21.04 ; 21         ; x86_64         ;
+; Timing Analyzer      ; mahdi            ; Ubuntu 21.04 ; 21         ; x86_64         ;
+; EDA Netlist Writer   ; mahdi            ; Ubuntu 21.04 ; 21         ; x86_64         ;
++----------------------+------------------+--------------+------------+----------------+
 
 
 ------------

@@ -1,7 +1,7 @@
 m255
 K4
 z2
-!s11f vlog 2020.4 2020.10, Oct 13 2020
+!s11f MIXED_VERSIONS
 13
 !s112 1.1
 !i10d 8192
@@ -28,28 +28,101 @@ o-quiet -auto_acc_if_foreign -work work +acc
 R2
 n@_opt1
 R3
-vMoore10010
-Z4 !s110 1623574220
+R0
+vMAMCSTB
+Z4 !s110 1623611050
 !i10b 1
-!s100 >bBfG?CUO=UmVS1fIAhJ?2
+!s100 WKJj2JH>YHebVfUoGP^hR3
 Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
-I^2m`l1I;7MMSMY8?YeWf[2
-Z6 dC:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 5
-w1623573733
-8Moore10010.v
-FMoore10010.v
-!i122 23
-L0 3 25
-Z7 VDg1SIo80bB@j0V0VzS_@n1
-Z8 OL;L;2020.4;71
+IhG3Y@^lzK@e??AoRAB^=^3
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 d/home/mahdi/codes/DigitalSystemsCA/Assignment 5
+w1623610851
+Z8 8/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCTB.v
+Z9 F/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCTB.v
+!i122 64
+Z10 L0 5 26
+Z11 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z9 !s108 1623574220.000000
-Z10 !s107 Moore10010.v|C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 5/Moore10010TB.v|
-Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 5/Moore10010TB.v|
-!i113 0
-Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 !s108 1623611050.000000
+Z13 !s107 Mealy10010.v|Moore10010.v|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCTB.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCTB.v|
+!i113 1
+Z15 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@m@a@m@c@s@t@b
+vMealy10010
+R4
+!i10b 1
+!s100 ilSf^<DU_z`B03EXB:GB03
+R5
+IhMmz6F?`2WM0X<DdN3^M61
+R6
+R7
+w1623606453
+8Mealy10010.v
+FMealy10010.v
+!i122 64
+L0 3 28
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R15
+R2
+n@mealy10010
+vMealy10010TB
+R4
+!i10b 1
+!s100 9j^^DJoLJ86mAQPRHc4FJ0
+R5
+ITGeniSe[=feKz27mFWhK60
+R6
+R7
+w1623606778
+8/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010TB.v
+F/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010TB.v
+!i122 63
+L0 3 16
+R11
+r1
+!s85 0
+31
+R12
+!s107 Mealy10010.v|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010TB.v|
+!i113 1
+R15
+R2
+n@mealy10010@t@b
+vMoore10010
+R4
+!i10b 1
+!s100 >bBfG?CUO=UmVS1fIAhJ?2
+R5
+I^2m`l1I;7MMSMY8?YeWf[2
+R6
+R7
+w1623601892
+8Moore10010.v
+FMoore10010.v
+!i122 64
+L0 3 25
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R15
 R2
 n@moore10010
 vMoore10010TB
@@ -57,22 +130,46 @@ R4
 !i10b 1
 !s100 YQcFm=2VVEUjeZTi]M`8=3
 R5
-Il@e:0EIgzAOz:Uc8S?D4F1
+IQRiLzoGH;z4GNdm0E_=aT0
 R6
-w1623574214
-8C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 5/Moore10010TB.v
-FC:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 5/Moore10010TB.v
-!i122 23
-L0 5 21
 R7
-R8
+w1623601893
+8/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Moore10010TB.v
+F/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Moore10010TB.v
+!i122 61
+L0 5 21
+R11
 r1
 !s85 0
 31
-R9
-R10
-R11
-!i113 0
 R12
+!s107 Moore10010.v|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Moore10010TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Moore10010TB.v|
+!i113 1
+R15
 R2
 n@moore10010@t@b
+vTestBench
+!s110 1623609195
+!i10b 1
+!s100 gI?j3Qd6iKM:I3J>3S3dH2
+R5
+IP7]D@NTE?aGI1ODDhOH>E1
+R6
+R7
+w1623609162
+R8
+R9
+!i122 49
+R10
+R11
+r1
+!s85 0
+31
+!s108 1623609195.000000
+R13
+R14
+!i113 1
+R15
+R2
+n@test@bench

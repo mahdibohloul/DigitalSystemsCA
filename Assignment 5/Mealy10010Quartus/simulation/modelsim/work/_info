@@ -1,0 +1,106 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/mahdi/codes/DigitalSystemsCA/Assignment 5
+vhard_block
+Z0 !s110 1623609749
+!i10b 1
+!s100 88Uj[I@kgX<T=n6D4_1@R2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I;nMf]R7>PWNQHl=W5hSn40
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 d/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010Quartus/simulation/modelsim
+Z4 w1623609495
+Z5 8Mealy10010.vo
+Z6 FMealy10010.vo
+!i122 7
+L0 320 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1623609749.000000
+!s107 Mealy10010.vo|Mealy10010PB.v|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010Quartus/simulation/modelsim/Mealy10010TB.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010Quartus/simulation/modelsim/Mealy10010TB.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vMealy10010
+R0
+!i10b 1
+!s100 fDPc3_WFGoULAeJMzJUfg3
+R1
+If:gYOnON8NWGlMR@M=X440
+R2
+R3
+R4
+R5
+R6
+!i122 7
+L0 32 287
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 Mealy10010.vo|Mealy10010PB.v|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010Quartus/simulation/modelsim/Mealy10010TB.v|
+R9
+!i113 1
+R10
+R11
+n@mealy10010
+vMealy10010PB
+R0
+!i10b 1
+!s100 4Yg]I8]lmPO2WCz>:W]851
+R1
+IF[Og5QQDJORSKiE5lhEbU2
+R2
+R3
+w1623609586
+8Mealy10010PB.v
+FMealy10010PB.v
+!i122 7
+L0 3 28
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+n@mealy10010@p@b
+vMealy10010TB
+R0
+!i10b 1
+!s100 dk>QSZkWC:CRSIhAh[aQ:0
+R1
+IJbd2572FQH[3`N?F=ia=e2
+R2
+R3
+w1623609744
+8/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010Quartus/simulation/modelsim/Mealy10010TB.v
+F/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010Quartus/simulation/modelsim/Mealy10010TB.v
+!i122 7
+L0 4 17
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+n@mealy10010@t@b

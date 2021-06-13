@@ -1,0 +1,26 @@
+{/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010Quartus/simulation/modelsim/Mealy10010.vo} {1 {vlog -work work -stats=none {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010Quartus/simulation/modelsim/Mealy10010.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mealy10010
+-- Compiling module hard_block
+
+Top level modules:
+	Mealy10010
+
+} {} {}} {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010Quartus/simulation/modelsim/Mealy10010TB.v} {1 {vlog -work work -stats=none {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010Quartus/simulation/modelsim/Mealy10010TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mealy10010PB
+-- Compiling module Mealy10010
+-- Compiling module hard_block
+-- Compiling module Mealy10010TB
+
+Top level modules:
+	Mealy10010TB
+
+} {} {}} {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010Quartus/simulation/modelsim/Mealy10010PB.v} {1 {vlog -work work -stats=none {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010Quartus/simulation/modelsim/Mealy10010PB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mealy10010PB
+
+Top level modules:
+	Mealy10010PB
+
+} {} {}}

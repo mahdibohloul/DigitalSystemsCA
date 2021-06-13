@@ -1,0 +1,106 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/mahdi/codes/DigitalSystemsCA/Assignment 5
+vhard_block
+Z0 !s110 1623611163
+!i10b 1
+!s100 gn5`loPMKfzKHEWeB8O`V0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IPjl10cFhn`mZ=oY]I9geg2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 d/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus
+Z4 w1623609982
+Z5 8/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Moore10010.vo
+Z6 F/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Moore10010.vo
+!i122 5
+L0 340 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1623611163.000000
+!s107 /home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Moore10010.vo|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Moore10010.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vMAMCSTB
+R0
+!i10b 1
+!s100 WKJj2JH>YHebVfUoGP^hR3
+R1
+IaMkkKN1^Mi<3U>FFl0FE81
+R2
+R3
+w1623611033
+8/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/MAMCTB.v
+F/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/MAMCTB.v
+!i122 3
+L0 5 26
+R7
+r1
+!s85 0
+31
+R8
+!s107 Mealy10010.vo|Moore10010.vo|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/MAMCTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/MAMCTB.v|
+!i113 1
+R10
+R11
+n@m@a@m@c@s@t@b
+vMealy10010
+R0
+!i10b 1
+!s100 fDPc3_WFGoULAeJMzJUfg3
+R1
+ID8dkEM8RbNb0PoJHE>2T^0
+R2
+R3
+w1623609495
+8/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Mealy10010.vo
+F/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Mealy10010.vo
+!i122 4
+L0 32 287
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Mealy10010.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Mealy10010.vo|
+!i113 1
+R10
+R11
+n@mealy10010
+vMoore10010
+R0
+!i10b 1
+!s100 ffbKhlA75@78^LKz>lY:c1
+R1
+I4bXdNE@HLLHKA]D0>DzQn2
+R2
+R3
+R4
+R5
+R6
+!i122 5
+L0 32 307
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 /home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Moore10010.vo|
+R9
+!i113 1
+R10
+R11
+n@moore10010

@@ -1,16 +1,40 @@
-{C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 5/Moore10010TB.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 5/Moore10010TB.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+{/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCTB.v} {1 {vlog -work work -stats=none {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Moore10010
+-- Compiling module Mealy10010
+-- Compiling module MAMCSTB
+
+Top level modules:
+	MAMCSTB
+
+} {} {}} {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010TB.v} {1 {vlog -work work -stats=none {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mealy10010
+-- Compiling module Mealy10010TB
+
+Top level modules:
+	Mealy10010TB
+
+} {} {}} {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Moore10010.v} {1 {vlog -work work -stats=none {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Moore10010.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Moore10010
+
+Top level modules:
+	Moore10010
+
+} {} {}} {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010.v} {1 {vlog -work work -stats=none {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Mealy10010.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mealy10010
+
+Top level modules:
+	Mealy10010
+
+} {} {}} {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Moore10010TB.v} {1 {vlog -work work -stats=none {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/Moore10010TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module Moore10010
 -- Compiling module Moore10010TB
 
 Top level modules:
 	Moore10010TB
-
-} {} {}} {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 5/Moore10010.v} {1 {vlog -work work -vopt -stats=none {C:/Users/M.Bohloul/Documents/DigitalSystemsCA/Assignment 5/Moore10010.v}
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module Moore10010
-
-Top level modules:
-	Moore10010
 
 } {} {}}

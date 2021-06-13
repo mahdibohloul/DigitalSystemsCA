@@ -1,5 +1,5 @@
-`include "Moore10010.vo"
 `include "Moore10010PA.v"
+`include "Moore10010.vo"
 `timescale 1ns/1ns
 
 

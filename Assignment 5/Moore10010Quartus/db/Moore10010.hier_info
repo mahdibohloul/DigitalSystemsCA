@@ -7,6 +7,6 @@ j => ns.F.DATAB
 j => Selector0.IN1
 j => ns.C.DATAB
 j => Selector2.IN1
-w << w.DB_MAX_OUTPUT_PORT_TYPE
+w <= w.DB_MAX_OUTPUT_PORT_TYPE
 
 

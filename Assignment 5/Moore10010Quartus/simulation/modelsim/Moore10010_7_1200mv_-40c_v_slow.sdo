@@ -15,11 +15,11 @@
 
 
 // 
-// Device: Altera EP4CGX15BF14A7 Package FBGA169
+// Device: Altera EP4CGX150DF31I7 Package FBGA896
 // 
 
 //
-// This file contains Slow Corner delays for the design using part EP4CGX15BF14A7,
+// This file contains Slow Corner delays for the design using part EP4CGX150DF31I7,
 // with speed grade 7, core voltage 1.2VmV, and temperature -40 Celsius
 //
 
@@ -30,7 +30,7 @@
 (DELAYFILE
   (SDFVERSION "2.1")
   (DESIGN "Moore10010")
-  (DATE "06/13/2021 14:34:55")
+  (DATE "06/13/2021 23:16:22")
   (VENDOR "Altera")
   (PROGRAM "Quartus Prime")
   (VERSION "Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition")
@@ -42,8 +42,8 @@
     (INSTANCE w\~output)
     (DELAY
       (ABSOLUTE
-        (PORT i (574:574:574) (526:526:526))
-        (IOPATH i o (2406:2406:2406) (2291:2291:2291))
+        (PORT i (585:585:585) (543:543:543))
+        (IOPATH i o (2409:2409:2409) (2397:2397:2397))
       )
     )
   )
@@ -52,7 +52,7 @@
     (INSTANCE clk\~input)
     (DELAY
       (ABSOLUTE
-        (IOPATH i o (566:566:566) (661:661:661))
+        (IOPATH i o (668:668:668) (745:745:745))
       )
     )
   )
@@ -61,7 +61,7 @@
     (INSTANCE clk\~inputclkctrl)
     (DELAY
       (ABSOLUTE
-        (PORT inclk[0] (371:371:371) (382:382:382))
+        (PORT inclk[0] (328:328:328) (332:332:332))
       )
     )
   )
@@ -70,7 +70,7 @@
     (INSTANCE j\~input)
     (DELAY
       (ABSOLUTE
-        (IOPATH i o (546:546:546) (641:641:641))
+        (IOPATH i o (608:608:608) (685:685:685))
       )
     )
   )
@@ -79,8 +79,8 @@
     (INSTANCE Selector1\~0)
     (DELAY
       (ABSOLUTE
-        (PORT datac (2824:2824:2824) (2975:2975:2975))
-        (PORT datad (231:231:231) (288:288:288))
+        (PORT datac (2769:2769:2769) (2923:2923:2923))
+        (PORT datad (231:231:231) (287:287:287))
         (IOPATH datac combout (259:259:259) (243:243:243))
         (IOPATH datad combout (142:142:142) (122:122:122))
       )
@@ -91,7 +91,7 @@
     (INSTANCE rst\~input)
     (DELAY
       (ABSOLUTE
-        (IOPATH i o (566:566:566) (661:661:661))
+        (IOPATH i o (678:678:678) (755:755:755))
       )
     )
   )
@@ -100,7 +100,7 @@
     (INSTANCE rst\~inputclkctrl)
     (DELAY
       (ABSOLUTE
-        (PORT inclk[0] (371:371:371) (382:382:382))
+        (PORT inclk[0] (328:328:328) (332:332:332))
       )
     )
   )
@@ -109,9 +109,9 @@
     (INSTANCE ps\.B)
     (DELAY
       (ABSOLUTE
-        (PORT clk (1397:1397:1397) (1374:1374:1374))
+        (PORT clk (2041:2041:2041) (1970:1970:1970))
         (PORT d (78:78:78) (87:87:87))
-        (PORT clrn (1434:1434:1434) (1347:1347:1347))
+        (PORT clrn (2075:2075:2075) (1941:1941:1941))
         (IOPATH (posedge clk) q (208:208:208) (208:208:208))
         (IOPATH (negedge clrn) q (193:193:193) (193:193:193))
       )
@@ -125,8 +125,8 @@
     (INSTANCE ns\.C\~0)
     (DELAY
       (ABSOLUTE
-        (PORT datac (2826:2826:2826) (2977:2977:2977))
-        (PORT datad (226:226:226) (279:279:279))
+        (PORT datac (2767:2767:2767) (2921:2921:2921))
+        (PORT datad (225:225:225) (278:278:278))
         (IOPATH datac combout (257:257:257) (243:243:243))
         (IOPATH datad combout (142:142:142) (122:122:122))
       )
@@ -137,9 +137,9 @@
     (INSTANCE ps\.C)
     (DELAY
       (ABSOLUTE
-        (PORT clk (1397:1397:1397) (1374:1374:1374))
+        (PORT clk (2041:2041:2041) (1970:1970:1970))
         (PORT d (78:78:78) (87:87:87))
-        (PORT clrn (1434:1434:1434) (1347:1347:1347))
+        (PORT clrn (2075:2075:2075) (1941:1941:1941))
         (IOPATH (posedge clk) q (208:208:208) (208:208:208))
         (IOPATH (negedge clrn) q (193:193:193) (193:193:193))
       )
@@ -153,9 +153,9 @@
     (INSTANCE Selector2\~0)
     (DELAY
       (ABSOLUTE
-        (PORT datab (2862:2862:2862) (3007:3007:3007))
+        (PORT datab (2803:2803:2803) (2951:2951:2951))
         (PORT datac (230:230:230) (285:285:285))
-        (PORT datad (244:244:244) (298:298:298))
+        (PORT datad (245:245:245) (299:299:299))
         (IOPATH datab combout (362:362:362) (383:383:383))
         (IOPATH datac combout (259:259:259) (243:243:243))
         (IOPATH datad combout (142:142:142) (122:122:122))
@@ -167,9 +167,9 @@
     (INSTANCE ps\.D)
     (DELAY
       (ABSOLUTE
-        (PORT clk (1397:1397:1397) (1374:1374:1374))
+        (PORT clk (2041:2041:2041) (1970:1970:1970))
         (PORT d (78:78:78) (87:87:87))
-        (PORT clrn (1434:1434:1434) (1347:1347:1347))
+        (PORT clrn (2075:2075:2075) (1941:1941:1941))
         (IOPATH (posedge clk) q (208:208:208) (208:208:208))
         (IOPATH (negedge clrn) q (193:193:193) (193:193:193))
       )
@@ -183,7 +183,7 @@
     (INSTANCE ns\.E\~0)
     (DELAY
       (ABSOLUTE
-        (PORT datac (2820:2820:2820) (2971:2971:2971))
+        (PORT datac (2761:2761:2761) (2915:2915:2915))
         (PORT datad (232:232:232) (289:289:289))
         (IOPATH datac combout (257:257:257) (243:243:243))
         (IOPATH datad combout (142:142:142) (122:122:122))
@@ -195,9 +195,9 @@
     (INSTANCE ps\.E)
     (DELAY
       (ABSOLUTE
-        (PORT clk (1397:1397:1397) (1374:1374:1374))
+        (PORT clk (2041:2041:2041) (1970:1970:1970))
         (PORT d (78:78:78) (87:87:87))
-        (PORT clrn (1434:1434:1434) (1347:1347:1347))
+        (PORT clrn (2075:2075:2075) (1941:1941:1941))
         (IOPATH (posedge clk) q (208:208:208) (208:208:208))
         (IOPATH (negedge clrn) q (193:193:193) (193:193:193))
       )
@@ -211,8 +211,8 @@
     (INSTANCE ns\.F\~0)
     (DELAY
       (ABSOLUTE
-        (PORT datac (2827:2827:2827) (2979:2979:2979))
-        (PORT datad (228:228:228) (282:282:282))
+        (PORT datac (2766:2766:2766) (2919:2919:2919))
+        (PORT datad (226:226:226) (280:280:280))
         (IOPATH datac combout (257:257:257) (243:243:243))
         (IOPATH datad combout (142:142:142) (122:122:122))
       )
@@ -223,9 +223,9 @@
     (INSTANCE ps\.F)
     (DELAY
       (ABSOLUTE
-        (PORT clk (1397:1397:1397) (1374:1374:1374))
+        (PORT clk (2041:2041:2041) (1970:1970:1970))
         (PORT d (78:78:78) (87:87:87))
-        (PORT clrn (1434:1434:1434) (1347:1347:1347))
+        (PORT clrn (2075:2075:2075) (1941:1941:1941))
         (IOPATH (posedge clk) q (208:208:208) (208:208:208))
         (IOPATH (negedge clrn) q (193:193:193) (193:193:193))
       )

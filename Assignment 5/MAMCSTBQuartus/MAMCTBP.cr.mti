@@ -1,0 +1,30 @@
+{/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Mealy10010.vo} {1 {vlog -work work -stats=none {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Mealy10010.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mealy10010
+-- Compiling module hard_block
+
+Top level modules:
+	Mealy10010
+
+} {} {}} {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Moore10010.vo} {1 {vlog -work work -stats=none {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/Moore10010.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Moore10010
+-- Compiling module hard_block
+
+Top level modules:
+	Moore10010
+
+} {} {}} {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/MAMCTB.v} {2 {vlog -work work -stats=none {/home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/MAMCTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Moore10010
+-- Compiling module hard_block
+-- Compiling module Mealy10010
+** Warning: ** while parsing file included at /home/mahdi/codes/DigitalSystemsCA/Assignment 5/MAMCSTBQuartus/MAMCTB.v(2)
+** at Mealy10010.vo(320): (vlog-2275) Existing module 'hard_block' will be overwritten.
+-- Compiling module hard_block
+-- Compiling module MAMCSTB
+
+Top level modules:
+	MAMCSTB
+
+} {} {}}
